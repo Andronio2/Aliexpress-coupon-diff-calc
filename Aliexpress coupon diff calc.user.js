@@ -4,6 +4,10 @@
 // @version      0.3
 // @description  Вычисляет разность купона и текущей цены
 // @author       Andronio
+// @homepage     https://github.com/Andronio2/Aliexpress-coupon-diff-calc
+// @supportURL   https://github.com/Andronio2/Aliexpress-coupon-diff-calc/issues
+// @updateURL    https://github.com/Andronio2/Aliexpress-coupon-diff-calc/raw/main/Aliexpress%20coupon%20diff%20calc.user.js
+// @downloadURL  https://github.com/Andronio2/Aliexpress-coupon-diff-calc/raw/main/Aliexpress%20coupon%20diff%20calc.user.js
 // @match        https://www.aliexpress.com/item/*
 // @match        https://www.aliexpress.ru/item/*
 // @match        https://aliexpress.ru/item/*
